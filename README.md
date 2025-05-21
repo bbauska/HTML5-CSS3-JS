@@ -1,4 +1,4 @@
-# html-css-js
+# HTML5 CSS3 JavaScript
 A fundamentals introduction into HTML5, CSS3 and JS
 
 
